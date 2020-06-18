@@ -5,3 +5,7 @@ Ich beschreibe hier meinen Charakter ohne auch nur ein Wort dazu zu verlieren, w
 * Punkt 2
 * Punkt 3
 * und noch ein ungeordneter Punkt
+
+As Grace Hopper said:
+> I’ve always been more interested
+> in the future than in the past.
