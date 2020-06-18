@@ -9,3 +9,5 @@ Ich beschreibe hier meinen Charakter ohne auch nur ein Wort dazu zu verlieren, w
 As Grace Hopper said:
 > I’ve always been more interested
 > in the future than in the past.
+
+<img scr="https://static.geo.de/bilder/4c/72/72396/quiz_image/mad-eye-moody-quiz-hp-charaktere.jpg"/>
